@@ -18,6 +18,7 @@ https://docs.google.com/presentation/d/15PQYv_Df0_LuSkoQFWqwS57xNK3jAopRPbfliscC
 
 ### Architecture:
 
+![Screenshot 2022-11-02 184745](https://user-images.githubusercontent.com/98315633/199583504-562909aa-142e-4339-adbf-e913ba6df255.png)![Screenshot 2022-11-02 182730](https://user-images.githubusercontent.com/98315633/199583874-354b2ec1-cc3a-4330-9100-56f8010bfc70.png)
 
 
 ### for this project i used these technologies:
